@@ -10,4 +10,9 @@ Tест-план для приложения "Интернет-магазин" [
 
 Тест-кейсы для Cart Management и Order Management [ссылка на тест-кейсы часть 2](https://drive.google.com/file/d/1zQkSR6dQwTaPyQYlHNmeh4Ekgt8UIum6/view?usp=sharing)
 
+Отчеты о дефекте для корзины, оплаты и оформления заказов приложения "Интернет-магазин"
+
+[Результаты тестового прогона из QASE в формате.pdf](https://drive.google.com/file/d/1Zp9HiopVnoNvEKQfigygRIHWFIA1qitS/view?usp=sharing)
+
+[Отчеты о дефекте из YouTrack в формате.xlcx](https://docs.google.com/spreadsheets/d/1eSBw8hsBLvAmrNfCUwVRZdYdlb4F62wf/edit?usp=sharing&ouid=113980239369282927358&rtpof=true&sd=true)
 
