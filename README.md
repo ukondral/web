@@ -16,3 +16,7 @@ Tест-план для приложения "Интернет-магазин" [
 
 [Отчеты о дефекте из YouTrack в формате.xlcx](https://docs.google.com/spreadsheets/d/1eSBw8hsBLvAmrNfCUwVRZdYdlb4F62wf/edit?usp=sharing&ouid=113980239369282927358&rtpof=true&sd=true)
 
+## Перехват трафика
+
+Перехват трафика используется на стыке мобильных и веб-приложений. Для этого применяют снифферы, такие как Charles Proxy, Fiddler или Proxyman.
+Рассмотрим различные тестовые сценарии для приложения "Интернет-магазин", используя [Charles Proxy](https://docs.google.com/document/d/13_FLnZWR9TnMdNX7tRBYO34eEpxAQFTZLdC1laIjhMo/edit?usp=sharing)
